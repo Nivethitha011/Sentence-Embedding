@@ -1,4 +1,4 @@
-# Sentence Embedding using Python
+# Sentence Embedding 
 
 ## Project Description
 
